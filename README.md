@@ -1,2 +1,2 @@
 # komiku_downloader
-Downloader for https://komiku.co.id/
+Downloader for https://komiku.id/

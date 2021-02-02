@@ -1,0 +1,4 @@
+*.pyc
+tes.py
+__pycache__
+output
